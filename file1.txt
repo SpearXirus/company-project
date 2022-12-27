@@ -3,8 +3,13 @@
 
 team 1
 code 
+<<<<<<< HEAD
 
 update processing
 ...
 ...
 ...
+=======
+i am team1
+"project done"
+>>>>>>> 2c71ceaac56f8001bb749ac3a78b32f0597363bf
